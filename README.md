@@ -26,8 +26,7 @@ Train a second linear model that is able to fulfill the criteria mentioned in th
 
 Generating lagged predictors is ofter expensive when training models for multiple horizons in large datasets. Your task is:
 
-- Reimplement your solution of task 1 achieving a substantial performance increase.
-- Profile the results and compare them
+- Reimplement your solution of task 1 achieving a substantial performance increase. Profile the results and compare them
 - The file entry_level_ds.py contains a python file which trains a linear model for every of the time series presented in data_eng_track.csv. Rewrite this to train the models properly (get rid of the for loop).
 
 # Track 4 - Machine Learning Engineer
