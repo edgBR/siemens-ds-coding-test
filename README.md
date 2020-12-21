@@ -25,7 +25,7 @@ Your lead data scientist has specified that forecasting error has bigger bussine
 Your task is:
 
 - Train a very vanilla linear model that is able to forecast the target variable of the dataset math_opth_track.csv
-- Train a second linear model that is able to fulfill the criteria mentioned in the statement.
+- Train a second linear model that is able to fulfill always the criteria mentioned in the statement.
 
 ## Track 3 - Data Engineering
 
