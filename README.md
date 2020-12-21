@@ -19,8 +19,8 @@ Your lead data scientist has specified that forecasting error has bigger bussine
 
 Your task is:
 
-Train a very vanilla linear model that is able to forecast the target variable of the dataset math_opth_track.csv
-Train a second linear model that is able to fulfill the criteria mentioned in the statement.
+- Train a very vanilla linear model that is able to forecast the target variable of the dataset math_opth_track.csv
+- Train a second linear model that is able to fulfill the criteria mentioned in the statement.
 
 # Track 3 - Data Engineering
 
@@ -35,5 +35,5 @@ Direct forecasting strategies tend to be very flexible as you can incorporate di
 
 Using the dataset provided in ml_eng_track.csv your task is:
 
-Train a multi input/output model to forecast the target variable.
-Explain why you have choosen this approach.
+- Train a multi input/output model to forecast the target variable.
+- Explain why you have choosen this approach.
