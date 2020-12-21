@@ -9,9 +9,9 @@ This is the repository of the code assignment that it was mentioned in the inter
 3. You will have to choose part 3 according to your specialization. Specialization has a bonus of 25% in your evaluation so think as this part of the task as your way to shine.
 
 
-# Track 1 - MLops
+# Track 1 - MLops/DevOps
 
-Containarise your preprocessing pipeline using docker and create a CI/CD pipeline that will push the container to a public container registry. 
+Containarise your preprocessing pipeline using docker and create a CI/CD pipeline in github or gitlab that will push the container to a public container registry. The CI/CD should be as complete as possible.
 
 # Track 2 - Mathematical Optimization
 
@@ -24,10 +24,17 @@ Train a second linear model that is able to fulfill the criteria mentioned in th
 
 # Track 3 - Data Engineering
 
-Generating lagged predictors is ofter expensive when training models for multiple horizons. In this part of the test you should re-implent the solution of Task 1 achievement a substantial amount of performance increase. Profile your code a compare the results.
+Generating lagged predictors is ofter expensive when training models for multiple horizons in large datasets. Your task is:
+
+- Reimplement your solution of task 1 achieving a substantial performance increase.
+- Profile the results and compare them
+- The file entry_level_ds.py contains a python file which trains a linear model for every of the time series presented in data_eng_track.csv. Rewrite this to train the models properly (get rid of the for loop).
 
 # Track 4 - Machine Learning Engineer
 
 Direct forecasting strategies tend to be very flexible as you can incorporate different features for different forecasting horizons in a very easy manner and give you explainability about which features are more relevant for every horizon. However this is not for free, direct forecasting strategies imply a higher number of models to maintain as well as a more complex infrastructure and workflow management to ensure the reliable operation of these models.
 
-Using the dataset provided in ml_eng_track.csv, train a multi input/output model to forecast the target variable.
+Using the dataset provided in ml_eng_track.csv your task is:
+
+Train a multi input/output model to forecast the target variable.
+Explain why you have choosen this approach.
