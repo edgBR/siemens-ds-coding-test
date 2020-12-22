@@ -6,7 +6,7 @@ This is the repository of the code assignment that it was mentioned in the inter
 
 1. You will have 48h to complete the test
 2. You will have to do as much as you can. If you do not finish the test that's alright, completeness is just one of the evaluation points so no stress.
-3. You will have to choose task 2 according to your specialization. Specialization has a bonus of 25% in your evaluation so think as this part of the task as your way to shine.
+3. You will have to choose one track out of the four in task 2 according to your specific skills. This task has a bonus of 25% in your evaluation so think as this part of the task as your way to shine!
 
 The format of the delivery is up to you, but we have to say that we like production ready code. If you want to use a notebook to deliver the summary of the results that's alright but we will value negatively if you present the whole solution in a notebook with messy code.
 
