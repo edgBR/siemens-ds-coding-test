@@ -37,10 +37,10 @@ It is completely up to you the following:
 
 Containarise your preprocessing pipeline using docker and create a CI/CD pipeline in github or gitlab that will push the container to a public container registry. Your pipeline should preferably include:
 
-- Container Build
-- Basic unit testing
-- Security testing
-- Deployment
+- Container Build.
+- Basic unit testing.
+- Security testing.
+- Deployment.
 
 
 ## Track 2 - Mathematical Optimization
@@ -51,15 +51,15 @@ Your task is:
 
 - Train a very vanilla model that is able to forecast the Turnover variable of the dataset math_opth_track.csv
 - Train a second model that is able to fulfill always the criteria mentioned in the statement.
-- Compare the results (discussion will be done in the second interview)
+- Compare the results (discussion will be done in the second interview).
 
 ## Track 3 - Data Engineering
 
 Generating lagged predictors is often expensive when training models for multiple horizons in large datasets. Your task is:
 
-- Reimplement your solution of task 1 achieving a substantial performance increase. Profile the results and compare them
+- Reimplement your solution of task 1 achieving a substantial performance increase. Profile the results and compare them.
 - The file messy_code.R contains an R code to train a linear model for every of the time series presented in data_eng_track.csv. Rewrite this to train the models properly (get rid of the for loop).
-- Compare the results (discussion will be done in the second interview)
+- Compare the results (discussion will be done in the second interview).
 
 ## Track 4 - Machine Learning Engineer
 
