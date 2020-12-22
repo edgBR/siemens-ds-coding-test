@@ -58,7 +58,7 @@ Your task is:
 Generating lagged predictors is often expensive when training models for multiple horizons in large datasets. Your task is:
 
 - Reimplement your solution of task 1 achieving a substantial performance increase. Profile the results and compare them
-- The file entry_level_ds.py contains a python file which trains a linear model for every of the time series presented in data_eng_track.csv. Rewrite this to train the models properly (get rid of the for loop).
+- The file messy_code.R contains an R code to train a linear model for every of the time series presented in data_eng_track.csv. Rewrite this to train the models properly (get rid of the for loop).
 - Compare the results (discussion will be done in the second interview)
 
 ## Track 4 - Machine Learning Engineer
